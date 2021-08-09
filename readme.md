@@ -6,3 +6,7 @@
 
 # betyar, origin
 # (new bot token: discord.com/developers/applications)
+
+
+#fontos
+  Copp lake
