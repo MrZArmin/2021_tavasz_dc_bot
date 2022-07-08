@@ -1,12 +1,2 @@
-# git add _file/dirname_
+#Discord bot
 
-# git commit -m "desciption"
-
-# git push
-
-# betyar, origin
-# (new bot token: discord.com/developers/applications)
-
-
-#fontos
-  Copp lake
